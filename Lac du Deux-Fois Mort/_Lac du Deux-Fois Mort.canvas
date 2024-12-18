@@ -5,7 +5,8 @@
 		{"id":"f96a0487dee9c4a1","type":"file","file":"Lac du Deux-Fois Mort/Trésor Mineur d'un Passé Glorieux.md","x":-2640,"y":-760,"width":780,"height":520},
 		{"id":"f51d3e94b998be1f","type":"file","file":"Lac du Deux-Fois Mort/Explorer les Ruines.md","x":-1660,"y":-560,"width":615,"height":424},
 		{"id":"74a0ea7a746c06ff","type":"file","file":"Lac du Deux-Fois Mort/Feu de Camp Abandonné.md","x":-1220,"y":270,"width":720,"height":520},
-		{"id":"fc1127df0764024e","x":-1120,"y":860,"width":660,"height":460,"type":"file","file":"Lac du Deux-Fois Mort/Bois-Cadavre.md"}
+		{"id":"fc1127df0764024e","type":"file","file":"Lac du Deux-Fois Mort/Bois-Cadavre.md","x":-1120,"y":860,"width":660,"height":460},
+		{"id":"dac731dd2f917fa4","type":"file","file":"_TEMPLATE/Enemy.md","x":-2148,"y":313,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"6526d0be9c656a2a","fromNode":"2212b02322d2f566","fromSide":"left","toNode":"f51d3e94b998be1f","toSide":"right"}
