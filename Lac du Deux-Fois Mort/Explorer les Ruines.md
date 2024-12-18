@@ -1,0 +1,9 @@
+
+| #   | Les ruines sont traître, chaque recoin peut cacher un potentiel danger, soudainement...                                                                                                                                              |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | ... un piège se déclenche,  Agilité DR6 ou D6 dgts                                                                                                                                                                                   |
+| 2   | ... le sol s'effondre sous vos pieds et vous tombez dans une salle creusé. Agilité DR8, ou D3 dgts. Dans les cryptes, vous trouvez corps vetu comme les occupants originaux, dans ses bras, un [[Trésor Majeur d'un Passé Glorieux]] |
+| 3   | ... d3 corps qui ont été tué par ses ruines                                                                                                                                                                                          |
+| 4   | ... d3 corps, tué par les ruines, l'un d'eux à un [[Trésor Mineur d'un Passé Glorieux]] emmitoufflé dans un tas de tissu                                                                                                             |
+| 5   | [[Trésor Mineur d'un Passé Glorieux]]                                                                                                                                                                                                |
+| 6   | [[Trésor Majeur d'un Passé Glorieux]]                                                                                                                                                                                                |
