@@ -1,5 +1,6 @@
-x*Description*
-**HP** -, **Morale** -, **leather** -DX
+#creature 
+**HP** -, **Morale** -, **armor** -DX
 - **attack DX**
 - **attack DX**: 
+
 
