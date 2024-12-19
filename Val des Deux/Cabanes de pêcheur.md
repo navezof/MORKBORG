@@ -1,0 +1,12 @@
+> Malgrés la mort qui teinte ces eaux, certains ont encore l'espoir de pêcher quelque chose de mangeable.
+> Un amas de cabanes en bois, la plupart pourri et a moitié immergé dans l'eau rance des marais, relié par des pontons en bois ou terre.
+
+| D6  | Au milieu des cabanes vous trouvez...                                                                                                                                                                               |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | ... un ponton qui s'avance dans une étendu d'eau. Des cadavres à moitié dévoré sont pendus à une poutre au dessus de l'eau. **d4** [[Horreur des Fanges]] surgissent et attaquent!                                  |
+| 2   | ... une scène d'interogations. Des pêcheurs sont ligoté et en train d'être torturé par d4 [[Harpier Corrompu]], ils cherchent la [[Main de 6]]                                                                      |
+| 3   | ... le sol en bois se brise sous vos pas, **Agilité DR8** ; tombe à l'eau, **2-**: infection                                                                                                                        |
+| 4   | ... un massacre, des corps de pêcheurs jonchent le sol et l'endroit à été pillé. Au vu des blessures, ils ont été torturé. Sous l'un des cadavres, un parchemin avec un dessin au charbon d'une main avec 6 doigts. |
+| 5   | ... d3 [[Passant Innocent\|pécheur]] venant du village voisin sont en train de pécher, ils n'ont pas grand chose mais peuvent fournir des informations et vendre du poisson (1a pour une ration)                    |
+| 6   |                                                                                                                                                                                                                     |
+
