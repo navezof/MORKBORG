@@ -5,8 +5,10 @@
 		{"id":"74a0ea7a746c06ff","type":"file","file":"Lac du Deux-Fois Mort/Feu de Camp Abandonné.md","x":-1220,"y":270,"width":760,"height":520},
 		{"id":"fc1127df0764024e","type":"file","file":"Lac du Deux-Fois Mort/Bois-Cadavre.md","x":-1580,"y":860,"width":1120,"height":580},
 		{"id":"b61d509509d9ce4d","type":"file","file":"Lac du Deux-Fois Mort/Marais.md","x":-20,"y":270,"width":1020,"height":610},
-		{"id":"6deccd3c41c1facf","type":"file","file":"Lac du Deux-Fois Mort/Marécage Engloutie.md","x":-1380,"y":1520,"width":880,"height":700},
-		{"id":"2212b02322d2f566","type":"file","file":"Lac du Deux-Fois Mort/Ruines d'un Passé Glorieux.md","x":-1020,"y":-240,"width":660,"height":440}
+		{"id":"6deccd3c41c1facf","type":"file","file":"Lac du Deux-Fois Mort/Marécage Engloutie.md","x":-1580,"y":1520,"width":1080,"height":720},
+		{"id":"2212b02322d2f566","type":"file","file":"Lac du Deux-Fois Mort/Ruines d'un Passé Glorieux.md","x":-1020,"y":-240,"width":660,"height":440},
+		{"id":"f46639abd6faea77","x":-1660,"y":2360,"width":1160,"height":558,"type":"file","file":"Lac du Deux-Fois Mort/Trou de Troll.md"},
+		{"id":"a36a95df527a2c63","x":-2580,"y":2239,"width":660,"height":421,"type":"file","file":"Créatures/Troll.md"}
 	],
 	"edges":[
 		{"id":"6526d0be9c656a2a","fromNode":"2212b02322d2f566","fromSide":"left","toNode":"f51d3e94b998be1f","toSide":"right"},
