@@ -25,6 +25,7 @@
     "excalidraw-open-md": "checkbox",
     "pv": "number",
     "morale": "number",
-    "valeur": "text"
+    "valeur": "text",
+    "type": "multitext"
   }
 }

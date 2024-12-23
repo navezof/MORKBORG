@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"f96a0487dee9c4a1","type":"file","file":"Val des Trois/Trésor Mineur d'un Passé Glorieux.md","x":-2640,"y":-760,"width":780,"height":540},
+		{"id":"f51d3e94b998be1f","type":"file","file":"Val des Trois/Marais de l'Unique/Evenements/Explorer les Ruines.md","x":-1660,"y":-560,"width":615,"height":424},
+		{"id":"74a0ea7a746c06ff","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux/Feu de Camp Abandonné.md","x":-1220,"y":270,"width":760,"height":520},
+		{"id":"fc1127df0764024e","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux/Bois-Cadavre.md","x":-1580,"y":860,"width":1120,"height":580},
+		{"id":"b61d509509d9ce4d","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux du Marais de l'Unique.md","x":-20,"y":270,"width":460,"height":610},
+		{"id":"6deccd3c41c1facf","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux/Marécage Grouillant.md","x":-1580,"y":1520,"width":1080,"height":720},
+		{"id":"2212b02322d2f566","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux/Ruines d'un Passé Glorieux.md","x":-1020,"y":-240,"width":660,"height":440},
+		{"id":"f46639abd6faea77","type":"file","file":"Val des Trois/Marais de l'Unique/Lieux/Trou de Troll.md","x":-1660,"y":2360,"width":1160,"height":558},
+		{"id":"63c0f96a5f1a35b1","type":"file","file":"Val des Trois/Marais de l'Unique/Objets/Main de 6.md","x":-200,"y":-560,"width":640,"height":200},
+		{"id":"a36a95df527a2c63","type":"file","file":"02 Créatures/Troll.md","x":-2460,"y":2240,"width":660,"height":421},
+		{"id":"dff74c7ca3f635fc","x":720,"y":270,"width":540,"height":610,"type":"file","file":"Val des Trois/Marais de l'Unique/Evenement du Marais de l'Unique.md"}
+	],
+	"edges":[
+		{"id":"6526d0be9c656a2a","fromNode":"2212b02322d2f566","fromSide":"left","toNode":"f51d3e94b998be1f","toSide":"right"},
+		{"id":"f12d684e442c9458","fromNode":"f51d3e94b998be1f","fromSide":"left","toNode":"f96a0487dee9c4a1","toSide":"right"}
+	]
+}
