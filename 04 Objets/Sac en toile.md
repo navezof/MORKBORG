@@ -1,5 +1,6 @@
 ---
-valeur:
+valeur: "3"
+tags:
+  - objet
 ---
-#objet 
-
+- *3a*, peut contenir 10 objets de taille normal

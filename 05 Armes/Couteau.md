@@ -1,8 +1,8 @@
 ---
-valeur: 
+valeur: "10"
 type:
   - arme
 tags:
   - arme
 ---
-**d6**
+**d4**

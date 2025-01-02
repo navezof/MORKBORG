@@ -1,0 +1,28 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "02 Créatures",
+      "tag": "#creature",
+      "pattern": ""
+    },
+    {
+      "folder": "04 Objets",
+      "tag": "#objet",
+      "pattern": ""
+    },
+    {
+      "folder": "05 Armes",
+      "tag": "#arme",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "_TEMPLATE"
+    }
+  ]
+}

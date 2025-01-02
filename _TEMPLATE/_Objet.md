@@ -1,6 +1,6 @@
 ---
-valeur: "4"
+valeur: 
+type: 
 tags:
   - objet
 ---
-- *4a*

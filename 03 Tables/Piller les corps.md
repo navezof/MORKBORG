@@ -10,7 +10,7 @@
 | 26    | Clefs d'une porte à proximité, volé.                                                                                                                                                     |
 | 31    | Carte vers la maison d'une famille riche mais faible                                                                                                                                     |
 | 32    | Un nombre impossible d'areignées.                                                                                                                                                        |
-| 33    | Un cylindre métalique avec de la poudre noir et une mèche. #D6 1-2: tu perds une main, 3-6: 3d10 dégats là où ça explose.                                                                |
+| 33    | Un cylindre métalique avec de la poudre noir et une mèche. ***D6*** 1-2: tu perds une main, 3-6: 3d10 dégats là où ça explose.                                                           |
 | 34    | Le visage écorché d'un chasseur de sorcière aimé/detesté.                                                                                                                                |
 | 35    | Une note avec le nom des PJs. L'un des noms à été rayé.                                                                                                                                  |
 | 36    | Une pixie torturé, ses ailes on été arraché et yeux écrasé.                                                                                                                              |
@@ -24,7 +24,7 @@
 | 52    | Une bouteille avec un label représentant un personnage souffrant. **Test Constitution DR12** ou baisse un attribut par **d4**. Ces attributs peuvent être récupéré en devenant meilleur. |
 | 53    | Un scalp avec de long cheveux noirs.                                                                                                                                                     |
 | 54    | Une balle dorée avec une fente très fine, peut etre ouverte.                                                                                                                             |
-| 55    | [[Knuckleduster]] ensanglanté                                                                                                                                                            |
+| 55    | [[Poing Américain]] ensanglanté                                                                                                                                                            |
 | 56    | 2 dés pipés                                                                                                                                                                              |
 | 61-66 | Le résultat en argent.                                                                                                                                                                   |
 

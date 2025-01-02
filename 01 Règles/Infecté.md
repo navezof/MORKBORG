@@ -1,0 +1,1 @@
+Un personnage infecté ne regagne aucun PV pendant un repos, à la place perds d6 pv par jour.

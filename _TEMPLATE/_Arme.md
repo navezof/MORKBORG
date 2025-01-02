@@ -5,4 +5,4 @@ type:
 tags:
   - arme
 ---
-**d6**
+- Xa, **dx**

@@ -1,6 +1,8 @@
 ---
-valeur:
+valeur: 
+type:
+  - arme
+tags:
+  - arme
 ---
-#arme
-
 **2d4**
