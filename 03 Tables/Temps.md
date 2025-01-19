@@ -1,5 +1,5 @@
 
-| D12 |                         |
+| D12 | Temps                   |
 | --- | ----------------------- |
 | 1   | Gris morne              |
 | 2   | Pluie battante          |
