@@ -1,0 +1,23 @@
+# D20 Verbes
+| D20 | Verbes     |
+| --- | ---------- |
+| 1   | combattre  |
+| 2   | fuir       |
+| 3   | protéger   |
+| 4   | voler      |
+| 5   | chercher   |
+| 6   | libérer    |
+| 7   | punir      |
+| 8   | trahir     |
+| 9   | secourir   |
+| 10  | traquer    |
+| 11  | inspirer   |
+| 12  | prier      |
+| 13  | escorter   |
+| 14  | eduquer    |
+| 15  | fonder     |
+| 16  | éliminer   |
+| 17  | marchander |
+| 18  | explorer   |
+| 19  | cultiver   |
+| 20  | guider     |

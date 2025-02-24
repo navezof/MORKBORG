@@ -2,7 +2,11 @@
 tags:
   - creature
 ---
-**HP** -, **Morale** -, **armor** -dX
-- **attack dX**
-- **attack dX**: 
+**HP** -, **Morale** -, **armure** -DX
 
+**Arme** DX
+**Spécial** -
+
+---
+*Capturé -a*
+*Mort -a*

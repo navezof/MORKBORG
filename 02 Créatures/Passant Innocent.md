@@ -1,8 +1,11 @@
-#creature 
+---
+tags:
+  - creature
+---
 
-**HP** 3, **Morale** 5, **no armor**
-- **Frappe désespéré** d2
+## Passant Innocent
+**HP** 3, **Morale** 5, **armure** rien 
 
-- [[Réaction]]
+**Frappe désespéré** d2
 
 

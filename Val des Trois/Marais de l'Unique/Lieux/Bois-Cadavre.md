@@ -1,3 +1,4 @@
+# Bois-Cadavre
 > Morbidement silencieux, sec, aucune végétation. 
 
 Des arbres aux silouehttes humanoïdes torturé craque et grince, gémissent même. Figer dans des poses presque humaines d'horreur et de douleur. Aucune feuille ne décore leur branche, aucune mousse ne grimpe sur leur tronc, juste une écorce grisâtre et maladive. Certains sont décoré de tissu et vêtement qui battent sinistrement au vent. Au milieu de la clairière trône un immense arbre aux formes sinueuse.

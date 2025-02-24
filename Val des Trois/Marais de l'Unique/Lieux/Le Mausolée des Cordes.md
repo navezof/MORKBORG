@@ -1,3 +1,4 @@
+# Le Mausolée des Cordes
 > Sinistre, grinçant, glacé
 
 Sur une coline se tient la Cime des pendus, un ancien verger planté par les anciens Seigneur du Val. Des chemins pavés parcour encore la terre devenu boue, et des murs de pierre blanche protège encore quelque uns de ses passages.

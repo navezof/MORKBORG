@@ -1,3 +1,4 @@
+# La chasse des Fanatiques de la Gueule
 Un [[Passant Innocent|villageois]] marqué comme un sacrifice à la [[Gueule, Ver Géant]] a réussi à s'enfuir, mais il est poursuivi par les Poursuiveurs de la Gueule, un groupe de fanatique. 
 
 Ce que ce survivant ne sait pas, c'est qu'il a implémenté dans le corps un Kyste Verreux, une créature qui permet aux [[Molosse Affamés]] de le tracké, ou qu'il aille.

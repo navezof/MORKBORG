@@ -5,4 +5,6 @@ type:
 tags:
   - objet
 ---
-- Xa, **armure -dx**
+
+-
+Xa, **armure -dx**

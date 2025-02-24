@@ -1,5 +1,4 @@
-#creature 
-
+# Harpier Revelé
 **HP** -, **Morale** -, **armor** -dX
 - **attack dX**
 - **attack dX**: 

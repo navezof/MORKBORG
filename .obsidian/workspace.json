@@ -4,56 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38b6cb885700b3ed",
+        "id": "3c3958ee65a5472b",
         "type": "tabs",
-        "dimension": 79.97359154929578,
         "children": [
           {
-            "id": "ab1a249009981fea",
+            "id": "952cb8fb2ce188ab",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Tables/Chasse/Chasse - Kergüs.md",
+                "file": "Val des Trois/Marais de l'Unique/Evenements/Territoire des Fangeux.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Chasse - Kergüs"
-            }
-          },
-          {
-            "id": "c84468b6b7a477b2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/De la Truie Ventrue à la Forêt des Ecorchés.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "De la Truie Ventrue à la Forêt des Ecorchés"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "e8ad04178254ac60",
-        "type": "tabs",
-        "dimension": 20.026408450704224,
-        "children": [
-          {
-            "id": "d1875a6d3dff45c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/_Salopard.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "_Salopard"
+              "title": "Territoire des Fangeux"
             }
           }
         ]
@@ -75,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -112,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 263.5
   },
   "right": {
     "id": "33aa9bef385d2157",
@@ -199,54 +165,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c84468b6b7a477b2",
+  "active": "952cb8fb2ce188ab",
   "lastOpenFiles": [
-    "Excalidraw/REGLES.md",
-    "Excalidraw/_Salopard.md",
-    "Excalidraw/Felban (MORT).md",
-    "Excalidraw/MONDE.md",
-    "Excalidraw/_Dungeoncrawl.md",
-    "Excalidraw/De la Truie Ventrue à la Forêt des Ecorchés.md",
-    "Excalidraw/La Forêt Ecorché.md",
-    "03 Tables/Travel/Leaving the road, you encounter.png",
-    "03 Tables/Travel/Events by the road.png",
-    "03 Tables/Travel/A quoi ressemble la route.png",
-    "03 Tables/Travel/Nightly campsite events.png",
-    "03 Tables/Travel/The village is.png",
-    "03 Tables/Travel/Travelling the Dying Lands.jpg",
-    "03 Tables/Travel/Village.md",
-    "03 Tables/Travel/Evènements près de la route.md",
-    "03 Tables/Travel/Evénements au coin du feu.md",
-    "03 Tables/Travel/Apres la route.md",
-    "03 Tables/Travel/Accidents de Chasse.md",
-    "03 Tables/Travel/A quoi ressemble la route.md",
-    "03 Tables/Loot/Useful Items.png",
-    "03 Tables/Loot/Useful Items.md",
-    "03 Tables/Loot/Piller les corps.md",
-    "03 Tables/Loot/Parchemin Sali.md",
-    "03 Tables/Loot/Parchemin Sacré.md",
-    "03 Tables/Loot/Objets Utile (TODO).md",
-    "03 Tables/Loot/Babioles (TODO).md",
-    "03 Tables/Inns and Cities/Inns 2 of 2.jpg",
-    "03 Tables/Inns and Cities/Inns 1 of 2.jpg",
-    "03 Tables/Inns and Cities/Crowd Sizes.png",
-    "03 Tables/Chasse/Rechercher de la nourriture.md",
-    "03 Tables/Chasse/Dans le ventre de la bête.md",
-    "03 Tables/Chasse/Chasse - Wästland.md",
-    "03 Tables/Chasse/Chasse - Vallée des Non-Morts Infortuné.md",
-    "03 Tables/Chasse/Chasse - Bergen Chrypt.md",
-    "03 Tables/Chasse/Chasse - Kergüs.md",
-    "Excalidraw/Travel (TMP).md",
-    "03 Tables/Inns and Cities",
-    "03 Tables/Adventure",
-    "03 Tables/Loot",
-    "03 Tables/Chasse",
-    "03 Tables/Travel",
-    "Untitled",
-    "_IMG",
-    "Excalidraw",
+    "Val des Trois/Marais de l'Unique/Evenements/Les Chasseur Harpiers.md",
+    "Val des Trois/Marais de l'Unique/Evenements/La chasse des Fanatiques de la Gueule.md",
+    "Val des Trois/Marais de l'Unique/Evenements/Explorer les Ruines.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Marécage Grouillant.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Le Mausolée des Cordes.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Feu de Camp Abandonné.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Epave coincé dans l'arbre.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Camps de Bucheron.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Cabanes de pêcheur.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Bois-Cadavre.md",
+    "Val des Trois/Cathédrale Tombante.md",
     "Val des Trois/_Val des Trois.canvas",
-    "05 Armes",
-    "Val des Trois/Marais de l'Unique/Objets"
+    "Chaine et Catacombes/Chaines et Catacombes.md",
+    "Tombes et Ténèbres/Lieux/Rivière Souterraine.md",
+    "Tombes et Ténèbres/Lieux/Entrepôt Abandonné.md",
+    "Tombes et Ténèbres/Lieux/Comptoir Perdu.md",
+    "Tombes et Ténèbres/Lieux/Cave Naturelle.md",
+    "Tombes et Ténèbres/_Tombes et Ténèbres.md",
+    "08 Objets/Poison (marron).md",
+    "08 Objets/Poison rouge.md",
+    "02 Créatures/Chauve-souris géante.md",
+    "02 Créatures/Vermine Géante.md",
+    "02 Créatures/Crabe des caves.md",
+    "05 PC/Theras, Philosophe Bafoué.md",
+    "01 Règles/REGLES.md",
+    "_IMG/Pasted Image 20250216091415_139.png",
+    "06 Voyages/Fuir Kergus.md",
+    "06 Tables/D20 Ennemis de Kergüs.md",
+    "01 Règles/Reaction.png",
+    "_IMG/Worldmap.png",
+    "Excalidraw",
+    "06 Tables/Loot/Useful Items.png",
+    "Untitled",
+    "Tombes et Ténèbres/Trésors",
+    "Tombes et Ténèbres/Rencontres",
+    "Tombes et Ténèbres/Evenements",
+    "Tombes et Ténèbres/Détails",
+    "Tombes et Ténèbres/Lieux",
+    "Chaine et Catacombes",
+    "_IMG/Blank Parchment Map.png",
+    "_IMG/Character Sheet.jpg",
+    "_IMG/Mörk Borg_page-0001.jpg",
+    "_IMG/Roadmap.png",
+    "Tombes et Ténèbres",
+    "04 NPC/Raer.png",
+    "04 NPC/Röobdis.png",
+    "07 Donjons"
   ]
 }
