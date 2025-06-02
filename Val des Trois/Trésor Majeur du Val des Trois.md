@@ -1,3 +1,4 @@
+# Trésor Majeur du Val des Trois
 Valeur de 20+2d20
 
 | D6  | Trésor Majeur                                                                                               |
