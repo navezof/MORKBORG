@@ -8,6 +8,58 @@ Roi éprit d'un troubadour, le troubadour dépérit, construit une nécropole po
 
 Aujourd'hui, la Nécropolis à atteint son apogée, et le rituel de la Matriarche arrive à son point final. 
 
+
+Un Monarque Néphel s'éprends d'un Cantateur Solarien. Il construit une cité entière pour le séduire. Mais le sang Stygien fait qu'il sera immortel, et pas son aimé. Il cherche donc à trouver un moyen de le rendre lui aussi immortel, il tente alors des myriades de moyens de plus en plus cruel, jusqu'a finalement sombré dans le desespoir et fait appel aux service d'un Apôtre de Nechrubel, qui lui promet l'immortalité contre un nombre incalculable de coeur.
+
+La Cité du Monarque s'est peu à peu changé en Nécropole et la mort agit étrangement en ce lieu.
+
+### NPC
+
+- **Le Monarque de Néphel** : Roi Immortel et Guerrier des Premiers Temps, adorateurs des Dieux Morts, il est connu pour aller au combats accompagné d'un Loup au pelage d'or. Sombre dans la folie et le desespoir apres la mort de son aimé et de ses tentatives desespéré pour le faire revivre.
+- **Le Loup d'Or**: Un demi-dieu lupin, fidèle du Monarque et attends le retour de son maître.
+- **L'Apôtre de Nechrubel**: Une nécromancienne très puissantes et charismatique. Elle a convaincu le Monarque de lui donner les pleins pouvoirs pour qu'elle puisse ouvrir les portes vers l'Autre Endroit.
+
+### Factions
+
+Dans cette Nécropole s'affronte 3 Factions:
+- **[[La Garde de Néphel]]**: Les soldats et habitants originel de la cité, eux aussi maudit à la non-vie. 
+	- **Motivation:** Préserver les secrets et ce qui reste des lieux sacrés de la Nécropole.
+- **[[Les Acolytes de l'Obsidienne]]**: Des prêtres et servant de la Matriarche de Néchrubel.
+	- **Motivation:** Récupérer des coeurs pour leur maitresse, apprendre des secrets de la mort.
+- **[[La Croisade]]**: Des soldats se battant au nom de la lumière et de l'espoir. Persuadé de pouvoir arrété l'apocalypse en détruisant les suivant de Néchrubel.
+	- **Motivation:** Purger les non-morts.
+
+**Factions mineurs**
+- **L'[[Echo Solaire]]:** Des echos magiques des habitants de Solaria, crée par le Monarque pour aidé son aimé à s'acclimater.
+- **Les [[Dévoreurs]]:** Une bande de fanatique fidèles aux Acolytes de lObsidienne. Des pilleurs brutaux et sans pitié qui sont envoyé hors de la Nécropole pour aller capturer des victimes fraiches.
+- **Les [[Déscendants]]:** Des humains qui habitent tant bien que mal la Nécropole, de moins en moins nombreux, servent de main d'oeuvre et protégé (généralement) par la [[arde de Néphel]]
+
+
+### Lieux
+
+1. **[[L'Arrière]]**: Là ou les rejets sont stocké avant d'être jeté dans la Fosse.
+2. **[[La Fosse]]:** Une crevasse où sont jeté les surplus de corps, devenu le domaine des [[Collectioneurs]]
+3. **[[La Porte]]**: L'entrée du mur exterieur de la Nécropole. Grande ouverte, orné de sigil.
+4. [[Le Pemier Chemin]]: Une route de plaisance autrefois construite pour montré la beauté de la Nécropole. Maintenant défiguré par les [[Acolytes de Nechrubel]] et par les Assauts de la [[Croisade]]
+5. [[Le Pavillon prêt du Lac]]: Une retraite à l'aurée de la [[Forêt du Loup]], c'est là que le [[Monarque de Néphel]] a rencontré son [[Aimé Solaire]].
+6. [[Forêt du Loup]]: Une forêt conservé même à l'apogée de la cité, remplis de marque de prière des [[Dieux Morts]], lieux de naissance du [[Loup d'Or]]
+7. [[Champs de Subsistance]]: Des champs, des moulins, la plupart laissé à l'abandon.
+8. [[L'Allée Victorieuse]]: Une allée juste avant la porte couverte d'Arche à la gloire du Monarque.
+	1. Maintenant couverte de bucher allumé par la [[Croisade]] qui brule sans cesse
+9. [[La Porte]]: Une gigantesque porte mis à bas par le dernier combat entre la [[Bête]] et le [[Loup d'Or]]
+	1. Trace de sang d'or, le corps de la bête est encore sur le haut de la porte, sans sang coule en permanence, formant une cascade putride.
+10. [[Le Quartier Solaire]]: Replique quasi exacte d'un des quartiers de la capitale de Solaria, habité par les [[Echo Solaire]].
+11. [[Les Termes]]: Un large complexe de bains, transformé en abattoir et quartier général des [[Acolytes de Nechrubel]]
+12. [[Le Sentier des Loups]]: Une allée dédié au [[Loup d'Or]] et les [[Dieux Morts]]. Le sang du loup couvrent l'allée et du liquide à poussé des arbres aux feuilles d'or.
+13. [[L'Opéra]]: Gigantesque batiment construit par le [[Monarque de Néphel]] pour son Aimé
+14. [[Les Cryptes Vivantes]]: Lieu de vie des derniers habitants en vie de la nécropole
+
+
+## Evenements
+
+- Camps de Dévoreurs
+- 
+
 ## Secrets
 
 - Seul les vivants peuvent partir
@@ -25,10 +77,20 @@ Aujourd'hui, la Nécropolis à atteint son apogée, et le rituel de la Matriarch
 
 ## PJs
 
+Chacun des PJs à deux motivations, dont une commune
+- Récupérer leur coeur.
+- 
+
 - Brulé
 - Enterré
 - Pendu
 - Noyé
+
+
+- La Promesse d'un Retour
+- L'Espoir d'une Vie Libéré
+- L'Eternité d'une Histoire Chanté
+- 
 
 ## Lieux
 
@@ -114,6 +176,9 @@ Aujourd'hui, la Nécropolis à atteint son apogée, et le rituel de la Matriarch
 - **Le Roi Brisé**
 - Chevalier silence
 	- Les gardes originel du roi
+- Echos
+	- Des créatures magiques, reflets d'âme existante.
+	- Peuvent se briser et devienent tres agressives
 
 **La Secte**
 - **La Matriarche**
