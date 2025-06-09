@@ -13,6 +13,22 @@ Un Monarque Néphel s'éprends d'un Cantateur Solarien. Il construit une cité e
 
 La Cité du Monarque s'est peu à peu changé en Nécropole et la mort agit étrangement en ce lieu.
 
+Au moment de l'action, la Nécropole vient tout juste de subir un assaut de la [[Croisade]]
+
+### Objectif
+
+- Sortir vivant de l'endroit
+	- Retrouver son coeur
+- Accomplir le rite du voeux
+
+> Attention à donner suffisament d'info au PJs
+
+### Secrets
+
+- Seuls les vivants peuvent quitter la Nécropole
+- L'[[Apôtre de Néchrubel]] a promis vie éternel à ceux qui lui apporteront un [[Coeur Héroïque]]
+- 
+
 ### NPC
 
 - **Le Monarque de Néphel** : Roi Immortel et Guerrier des Premiers Temps, adorateurs des Dieux Morts, il est connu pour aller au combats accompagné d'un Loup au pelage d'or. Sombre dans la folie et le desespoir apres la mort de son aimé et de ses tentatives desespéré pour le faire revivre.
@@ -22,8 +38,8 @@ La Cité du Monarque s'est peu à peu changé en Nécropole et la mort agit étr
 ### Factions
 
 Dans cette Nécropole s'affronte 3 Factions:
-- **[[La Garde de Néphel]]**: Les soldats et habitants originel de la cité, eux aussi maudit à la non-vie. 
-	- **Motivation:** Préserver les secrets et ce qui reste des lieux sacrés de la Nécropole.
+- **[[Garde de Néphel]]**: Les soldats et habitants originel de la cité, eux aussi maudit à la non-vie. 
+	- **Motivation:** Préserver les secrets et ce qui reste des lieux sacrés de la Nécropole, attendent que leur monarque reprennent leur esprit, ou que l'Apôtre meure.
 - **[[Les Acolytes de l'Obsidienne]]**: Des prêtres et servant de la Matriarche de Néchrubel.
 	- **Motivation:** Récupérer des coeurs pour leur maitresse, apprendre des secrets de la mort.
 - **[[La Croisade]]**: Des soldats se battant au nom de la lumière et de l'espoir. Persuadé de pouvoir arrété l'apocalypse en détruisant les suivant de Néchrubel.
@@ -32,7 +48,7 @@ Dans cette Nécropole s'affronte 3 Factions:
 **Factions mineurs**
 - **L'[[Echo Solaire]]:** Des echos magiques des habitants de Solaria, crée par le Monarque pour aidé son aimé à s'acclimater.
 - **Les [[Dévoreurs]]:** Une bande de fanatique fidèles aux Acolytes de lObsidienne. Des pilleurs brutaux et sans pitié qui sont envoyé hors de la Nécropole pour aller capturer des victimes fraiches.
-- **Les [[Déscendants]]:** Des humains qui habitent tant bien que mal la Nécropole, de moins en moins nombreux, servent de main d'oeuvre et protégé (généralement) par la [[arde de Néphel]]
+- **Les [[Déscendants]]:** Des humains qui habitent tant bien que mal la Nécropole, de moins en moins nombreux, servent de main d'oeuvre et protégé (généralement) par la [[Garde de Néphel]]
 
 
 ### Lieux
@@ -54,11 +70,20 @@ Dans cette Nécropole s'affronte 3 Factions:
 13. [[L'Opéra]]: Gigantesque batiment construit par le [[Monarque de Néphel]] pour son Aimé
 14. [[Les Cryptes Vivantes]]: Lieu de vie des derniers habitants en vie de la nécropole
 
+[[L'Atelier de l'Arrache Coeur]]: Un ancien tombeau qui a été aménagé par les [[Acolytes de Nechrubel]], il contient une Table d'Arrache Coeur rouillé. Elle a servit à retirer le coeur des PJs. Des [[Portes-Coeurs]] (vide) sont rangé.
+- La table peut être utilisé pour insérer un coeur dans un corps.
+- Des acolytes ont été brutalement tué (par les [[Pénitent Guerriers]] de la croisade.)
+
+## Mécaniques
+
+- Invoquer son passé
+	- Utiliser une citation et/ou un mémento pour regagner des présages.
 
 ## Evenements
 
-- Camps de Dévoreurs
-- 
+- **Escarmouche**. Un petit groupe de [[Pénitent Guerriers]] et [[Acolytes de Nechrubel]] se sont affrontés et ont péris.
+- **Execution**. Des [[Acolytes de Nechrubel]] ont été rituellement empallé par les [[Pénitent Guerriers]]
+- **Récolte**. Des corps de civils ont été ouvert et leur coeur enlevé.
 
 ## Secrets
 
@@ -151,11 +176,6 @@ Chacun des PJs à deux motivations, dont une commune
 ## Objets
 
 - Braise d'Humanité
-
-
-## PNJ Notable
-
-
 
 
 ## Rencontre
