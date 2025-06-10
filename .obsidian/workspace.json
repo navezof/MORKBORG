@@ -39,16 +39,18 @@
             "id": "186b6177efa5711b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Necropolis des Deux-Fois Morts/Drawing 2025-06-01 15.25.40.excalidraw.md"
+                "file": "Necropolis des Deux-Fois Morts/Other Idea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-06-01 15.25.40.excalidraw"
+              "icon": "lucide-file",
+              "title": "Other Idea"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -192,10 +194,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddb3d24191e17826",
+  "active": "186b6177efa5711b",
   "lastOpenFiles": [
-    "Necropolis des Deux-Fois Morts/Drawing 2025-06-01 15.25.40.excalidraw.md",
     "Necropolis des Deux-Fois Morts/Nécropolis des Deux-Fois Mort.md",
+    "Necropolis des Deux-Fois Morts/Other Idea.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Marécage Grouillant.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Maison abandonnée.md",
+    "Val des Trois/Marais de l'Unique/Evenements/Explorer les Ruines.md",
+    "Val des Trois/Marais de l'Unique/Evenements/La chasse des Fanatiques de la Gueule.md",
+    "Val des Trois/Marais de l'Unique/Evenements/Les Chasseur Harpiers.md",
+    "Val des Trois/Marais de l'Unique/Lieux/Bois-Cadavre.md",
+    "Necropolis des Deux-Fois Morts/Drawing 2025-06-01 15.25.40.excalidraw.md",
     "02 Créatures/Charognard des Vases.md",
     "02 Créatures/Crabe des caves.md",
     "02 Créatures/Colosse Osseux.md",
@@ -208,22 +217,15 @@
     "06 Tables/Loot/Useful Items.png",
     "06 Tables/Loot/Piller les corps.md",
     "Val des Trois/Trésor Mineur du Val des Trois.md",
-    "Val des Trois/Marais de l'Unique/Evenements/Explorer les Ruines.md",
-    "Val des Trois/Marais de l'Unique/Lieux/Maison abandonnée.md",
     "02 Créatures/Nécro-sirène.md",
     "02 Créatures/Varghulf.md",
     "02 Créatures/Goule des Glaces.md",
     "02 Créatures/Ours à Molaires.md",
     "02 Créatures/Horreur des Fanges.md",
     "02 Créatures/Gardien des Cordes.md",
-    "Val des Trois/Marais de l'Unique/Lieux/Bois-Cadavre.md",
     "02 Créatures/Démon Cornu.md",
     "Necropolis des Deux-Fois Morts",
     "02 Créatures/Cultiste.md",
-    "02 Créatures/Casse-faim.md",
-    "02 Créatures/Bent, Ordure des Bas-fond.md",
-    "02 Créatures/Bandit frigorifié.md",
-    "02 Créatures/Araignée Toile-de-meurtre.md",
     "06 Tables/Chasse/Hunt - Berghen Chrypt 1 of 2.jpg",
     "06 Tables/Yes or No.png",
     "06 Tables/Weather.png",
