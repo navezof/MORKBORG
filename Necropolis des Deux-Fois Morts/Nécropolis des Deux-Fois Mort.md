@@ -84,6 +84,7 @@ Dans cette Nécropole s'affronte 3 Factions:
 - **Escarmouche**. Un petit groupe de [[Pénitent Guerriers]] et [[Acolytes de Nechrubel]] se sont affrontés et ont péris.
 - **Execution**. Des [[Acolytes de Nechrubel]] ont été rituellement empallé par les [[Pénitent Guerriers]]
 - **Récolte**. Des corps de civils ont été ouvert et leur coeur enlevé.
+- **En Fuite!** Un 
 
 ## Secrets
 
