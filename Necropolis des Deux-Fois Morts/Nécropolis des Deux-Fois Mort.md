@@ -1,5 +1,51 @@
-# Nécropolis des Deux-Fois Mort
 
+
+
+### Introduction
+
+Vous faites partie de la 8ème Escouade de Valdor. Un simple village qui à survécu grâce à ses colinnes couverte de champs de blé. Jusqu'a présent, car chaque années depuis l'Avénement de Néchrubel, la terre se meurt de plus en plus.
+
+7 escouade avant vous on été envoyé aux quatres coins du continent pour trouver une solution. Aucune n'est revenu, en tout cas vivante. 
+
+Mais pour la 8ème, tout change. Car cette fois, vous avez une destination: La Nécropole de Néphel et ses trésors.
+
+---
+Les échos des cloches résonnent.
+Même du plus profond des cryptes de Galgenbeck, leur gong frappent les murs gigantesque et humides de l'immense cavernes.
+Le sol est rendu glissant par le sang des 33 fidéles qui n'ont pas hésité à s'ouvrir la gorge.
+33 fidéles, 33 mots que va leur offrir Verhu l'une des deux têtes de l'Hydre de la Fin des Temps.
+Chaque syllabe est une lame acéré qui écorche l'esprit, chaque souffle une putréfaction qui empoisonne la rationalité.
+
+"Oh Roi des Rois, de par ton sang, tu deviendras
+conquérant, savant, créateur et destructeur
+Or, pouvoir et savoir, tout tu posséderas
+mais jamais ce que désire le plus ton coeur"
+
+Ansi à parlé Verhu, et Verhu ne dit que Vérité.
+
+Les échos des cloches résonnent.
+Même du profond des tombes, leur gong frappent la terre encore meuble
+Et soudainement, tu sens tes poumons réclamé de l'air qui ne vient pas
+ton corps est prisonnier d'un étau qui t'écrase à chaque seconde un peu plus.
+Lentement, ta conscience s'efface pour retourner dans l'oubli.
+Promesse, Espoir, Eternité et Fierté, enterré, effacé.
+
+Puis le monde se révele, tu aspire à grande goulées un air malsain qui pue la mort, pourtant si délicieux. Tu te débats contre la boue qui t'emprisonne, aider par une pluie torrentiel qui a fait s'effondrer une partie du plateau avant d'enfin être libre.
+
+Tout autour de toi, des bras sont tendus vers le ciel comme autant de macabre pierre tombale. Plus loin encore des piles de corps entassé comme des colinnes mortuaire. A quelques mêtre, une crevasse s'ouvre vers le vide,  la pluie s'y engrouffre avec un vacarme effroyable. Dos à toi, un mur de boue de 2 m, là ou le terrain à glisser.
+
+Tu n'es pas seul, autour de toi, trois autre silouhette se débatte et remette sur pied. Ils portent tous l'uniforme marqué des épis croisé de Valdor.
+
+### Prisonnier dans la boue
+
+### La corde
+
+- [[Léon, chef de la 8ème escouade]] envoie une corde, mais il est mortellen mais il est mortellement blessé par [[Gritt, le Fossoyeur Abandonée]].
+
+
+
+
+---
 Retrouve ton coeur et fuit!
 
 Le nécromancien lunatique a récupéré une centaine de coeurs nécessaire à un rituel d'invocation qui lui permettra de lier à son âme un puissant démon.
@@ -14,6 +60,7 @@ Un Monarque Néphel s'éprends d'un Cantateur Solarien. Il construit une cité e
 La Cité du Monarque s'est peu à peu changé en Nécropole et la mort agit étrangement en ce lieu.
 
 Au moment de l'action, la Nécropole vient tout juste de subir un assaut de la [[Croisade]]
+
 
 ### Objectif
 
@@ -53,10 +100,13 @@ Dans cette Nécropole s'affronte 3 Factions:
 
 ### Lieux
 
-1. **[[L'Arrière]]**: Là ou les rejets sont stocké avant d'être jeté dans la Fosse.
-2. **[[La Fosse]]:** Une crevasse où sont jeté les surplus de corps, devenu le domaine des [[Collectioneurs]]
+1. **[[Bas-Plateau]]**: Là ou les rejets sont stocké avant d'être jeté dans la Fosse.
+	1. [[Atelier de l'Arrache Coeur]]: Un ancien tombeau qui a été aménagé par les [[Acolytes de Nechrubel]], il contient une Table d'Arrache Coeur rouillé. Elle a servit à retirer le coeur des PJs. Des [[Portes-Coeurs]] (vide) sont rangé.
+	- La table peut être utilisé pour insérer un coeur dans un corps.
+	- Des acolytes ont été brutalement tué (par les [[Pénitent Guerriers]] de la croisade.)
+2. **[[Fosse-Morte]]:** Une crevasse où sont jeté les surplus de corps, devenu le domaine des [[Collectioneur]]
 3. **[[La Porte]]**: L'entrée du mur exterieur de la Nécropole. Grande ouverte, orné de sigil.
-4. [[Le Pemier Chemin]]: Une route de plaisance autrefois construite pour montré la beauté de la Nécropole. Maintenant défiguré par les [[Acolytes de Nechrubel]] et par les Assauts de la [[Croisade]]
+4. [[Le Premier Chemin]]: Une route de plaisance autrefois construite pour montré la beauté de la Nécropole. Maintenant défiguré par les [[Acolytes de Nechrubel]] et par les Assauts de la [[Croisade]]
 5. [[Le Pavillon prêt du Lac]]: Une retraite à l'aurée de la [[Forêt du Loup]], c'est là que le [[Monarque de Néphel]] a rencontré son [[Aimé Solaire]].
 6. [[Forêt du Loup]]: Une forêt conservé même à l'apogée de la cité, remplis de marque de prière des [[Dieux Morts]], lieux de naissance du [[Loup d'Or]]
 7. [[Champs de Subsistance]]: Des champs, des moulins, la plupart laissé à l'abandon.
@@ -65,14 +115,18 @@ Dans cette Nécropole s'affronte 3 Factions:
 9. [[La Porte]]: Une gigantesque porte mis à bas par le dernier combat entre la [[Bête]] et le [[Loup d'Or]]
 	1. Trace de sang d'or, le corps de la bête est encore sur le haut de la porte, sans sang coule en permanence, formant une cascade putride.
 10. [[Le Quartier Solaire]]: Replique quasi exacte d'un des quartiers de la capitale de Solaria, habité par les [[Echo Solaire]].
-11. [[Les Termes]]: Un large complexe de bains, transformé en abattoir et quartier général des [[Acolytes de Nechrubel]]
+11. [[Aqueduc Inversé]]: Un large complexe de bains, transformé en abattoir et quartier général des [[Acolytes de Nechrubel]]
 12. [[Le Sentier des Loups]]: Une allée dédié au [[Loup d'Or]] et les [[Dieux Morts]]. Le sang du loup couvrent l'allée et du liquide à poussé des arbres aux feuilles d'or.
 13. [[L'Opéra]]: Gigantesque batiment construit par le [[Monarque de Néphel]] pour son Aimé
 14. [[Les Cryptes Vivantes]]: Lieu de vie des derniers habitants en vie de la nécropole
+15. 
 
-[[L'Atelier de l'Arrache Coeur]]: Un ancien tombeau qui a été aménagé par les [[Acolytes de Nechrubel]], il contient une Table d'Arrache Coeur rouillé. Elle a servit à retirer le coeur des PJs. Des [[Portes-Coeurs]] (vide) sont rangé.
-- La table peut être utilisé pour insérer un coeur dans un corps.
-- Des acolytes ont été brutalement tué (par les [[Pénitent Guerriers]] de la croisade.)
+
+- **Laboratoire**: Une créature pouvant manipuler le temps est retenu prisonière et torturé perpetuellement.
+	- Fiole de sang, l'absorber permet de revenir dans le temps pendant quelques secondes
+
+- **Observatoire**: 
+
 
 ## Mécaniques
 
@@ -84,68 +138,10 @@ Dans cette Nécropole s'affronte 3 Factions:
 - **Escarmouche**. Un petit groupe de [[Pénitent Guerriers]] et [[Acolytes de Nechrubel]] se sont affrontés et ont péris.
 - **Execution**. Des [[Acolytes de Nechrubel]] ont été rituellement empallé par les [[Pénitent Guerriers]]
 - **Récolte**. Des corps de civils ont été ouvert et leur coeur enlevé.
-- **En Fuite!** Un 
-
-## Secrets
-
-- Seul les vivants peuvent partir
-	- Les PJs ont le torse couvert de glyphe et une énorme cicatrice au dessus du coeur
-	- Ils n'ont plus de pouls/battement de coeur
-- Le Héro du Loup d'Or protège ceux qui pasent de l'autre coté
-	- Armé d'une lance et d'une épée
-	- Il s'est battu contre l'Abomination de la Fosse
-	- Posséderait un coeur d'or (littéralement)
-- Le Nécromancien a engagé toute sortes de tueurs
-
-
-- La vérité
-	- La Nécropole a été batît pour 
-
-## PJs
-
-Chacun des PJs à deux motivations, dont une commune
-- Récupérer leur coeur.
+- **En Fuite!** Un [[Déscendants]] s'est aventuré à l'exterieur des [[Les Cryptes Vivantes]] pour trouver un moyen de briser la malédication.
+- **Audience Royal** Rencontre avec le [[Monarque de Néphel]], il n'est pas immédiatement hostile, et n'attaquera pas sans provocation. Mais les PJs doivent sentir immédiatement la puissance du personnage.
+- **Pélerins** Un groupe de cultiste célèbre l'un des batiments et pratique un rituel.
 - 
-
-- Brulé
-- Enterré
-- Pendu
-- Noyé
-
-
-- La Promesse d'un Retour
-- L'Espoir d'une Vie Libéré
-- L'Eternité d'une Histoire Chanté
-- 
-
-## Lieux
-
-1. La Fosse
-	- Rencontre avec un chasseur indépendant ayant le message du nécromancien
-2. L'allée des tombes
-3. L'entrée
-	1. Dizaines de cadavres similaires au PJs mort à la limite
-	2. Enseigne qui indique que les morts ne peuvent quitter l'nedroit
-	3. Sigles du Dieu des Morts local
-4. [[Bois-Cadavre]]
-5. [[Maison abandonnée]]
-6. Atelier du nécromage
-7. Lac Gelée
-8. La Bouche
-9. La Cathédrale (QG du nécromancien)
-10. Maison des chasseurs
-11. Les Buchés
-12. Le Champs 
-13. Le cadavre de l'Abomination
-14. Le clocher
-15. La cité fantôme
-16. Le jarding
-17. Opéra
-18. Maison musical
-19. Le palais
-20. Mausolée magnifique
-
-## Evenements
 
 - Le Loup Doré
 	- Trace de griffes, or fondu, ancien. (témoin de la bataille entre le loup et l'Abomination)
@@ -173,6 +169,56 @@ Chacun des PJs à deux motivations, dont une commune
 - Les Paladins
 	- Lieu sanctifié/mort-vivants éradiqué avec des sigles sacrés
 - La cloche
+
+## Secrets
+
+- Seul les vivants peuvent partir
+	- Les PJs ont le torse couvert de glyphe et une énorme cicatrice au dessus du coeur
+	- Ils n'ont plus de pouls/battement de coeur
+- Le Héro du Loup d'Or protège ceux qui pasent de l'autre coté
+	- Armé d'une lance et d'une épée
+	- Il s'est battu contre l'Abomination de la Fosse
+	- Posséderait un coeur d'or (littéralement)
+- Le Nécromancien a engagé toute sortes de tueurs
+
+
+- La vérité
+	- La Nécropole a été batît pour 
+
+## PJs
+
+Tous:
+- Uniforme de la Compagnie Libre, selon les histoires du Valdor, les champions d'un temps anciens temps aurait porté des habits similaire pour défaire les enemis dela vallée. Léon pensait que c'etait une bonne idée, que ça aiderait à souder les membre de la Compagnie.
+  
+  L'uniforme est marqué de deux épis de blé croisé sur un soleil levant.
+- Dans un linge, un morceau de pain du Valdor, faits des grains de la dernière récolte. Rosalie les avait préparé elle même, la veille du départ. Elle n'a pas pus en profiter.
+- Une pièce du trésor de Néphel. De la dernière expedition, un seul corps était revenu, ramené par un Chevalier de l'Aube. Serrés dans les bras du cadavre, son manteau roulé en boule, à l'interieur, 24 pièce de Néphel. Or couvert de sang. Dans le manteau, tracé de sang, une phrase: "Suivre le Soleil jusqu'a la Tanière du Loup d'Or, notre richesse protège le trésor."
+
+- La Promesse d'un Retour Certain
+	- passé: dernière senteur de blé ; échos d'un rire enfantin ; larme d'une triste fierté ; futur condamné
+	- cheval de bois grossièrement taillé : 
+	- Contes de Néphel, un livre d'enfant, le préféré de ton fils, il te l'a confié.
+	- Un collier avec un cercle de fer gravé du numéro 6, le dernier numéro de l'escouade.
+- L'Espoir d'une Vie Libéré
+	- parfum d'un interdit ; mirage d'un sourire ; raclement de chaîne d'acier; futur esseulé
+	- étoffe de soie richement brodé ;
+	- un parchemin froissé avec un nom, un nombre: 237 et la signature du Baron du Valdor.
+	- Un collier avec un cercle de fer gravé du numéro 13, le dernier numéro de l'escouade.
+- L'Eternité d'une Histoire Chanté
+	- poussière et plumes au bout noircie ; ombre de ceux qui viennent d'avant  ; voix et encres mêlé ; futur ensilencé
+	- clefs d'accord en bois ornés ; 
+	- une page d'un manuscript arraché, des lignes musicales a moitié complète ; 
+	- Un collier avec un cercle de fer gravé du numéro 8, le dernier numéro de l'escouade.
+- La Fierté d'une Victoire Annoncé
+	- sueur et sang sur la main blessé ; lumière d'un apres ; obscure d'un avant ; futur oublié
+	- symbole de l'Aube en fer rouillé ;
+	- cuirrasse gravé du nom de ton meilleur ami, sur le coté, un trou avec encore des traces de sang que tu n'as pas réussi à effacer.
+	- Un collier avec un cercle de fer gravé du numéro 2. Léon, le numéro 1 t'avais convaincu de prendre ce numéro.
+
+
+## Evenements
+
+
 
 ## Objets
 

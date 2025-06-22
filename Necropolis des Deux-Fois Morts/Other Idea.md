@@ -6,7 +6,8 @@
 	- Matériel de retrait/sortilège pour enlever/remettre et de transport de coeur
 	- Une escarmouche avec le symbole des chasse-coeur détruit
 	- Le drapeaux des chasse-coeur est visible sur le coté de la carte
-	- Personne seule transportant des porte-coeurs
+	- Servant seul transportant des porte-coeurs
+		- Peut indiquer où est le quartier général des Chasseurs ([[Le Quartier Solaire]] ou [[L'Opéra]])
 	- 
 - 
 

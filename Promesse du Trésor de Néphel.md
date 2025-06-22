@@ -1,0 +1,1 @@
+- Le manteau ayant les mots de la 8ème escouade

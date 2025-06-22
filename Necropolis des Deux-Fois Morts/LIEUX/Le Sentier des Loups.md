@@ -1,1 +1,4 @@
-# Le Sentier des Loups
+---
+tags:
+  - lieu
+---

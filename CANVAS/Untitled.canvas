@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"417516bd62c762f9","x":-660,"y":400,"width":400,"height":400,"type":"file","file":"06 Tables/Loot/D6 Objets Utiles.md"},
+		{"id":"6524d04e7a8d692f","x":-200,"y":40,"width":400,"height":400,"type":"file","file":"06 Tables/Loot/D4 Armures.md"},
+		{"id":"3a13b29d06bf981a","x":-200,"y":506,"width":840,"height":1134,"type":"file","file":"06 Tables/Loot/Piller les corps.md"},
+		{"id":"d6815f7fbdc7efa4","x":680,"y":506,"width":500,"height":1534,"type":"file","file":"06 Tables/Loot/D66 Equipement.md"},
+		{"id":"55f620edfb258389","x":230,"y":-80,"width":450,"height":480,"type":"file","file":"06 Tables/Loot/D10 Armes.md"}
+	],
+	"edges":[]
+}

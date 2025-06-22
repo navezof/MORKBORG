@@ -11,14 +11,17 @@
             "id": "d11dddb607be52db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Necropolis des Deux-Fois Morts/Nécropolis des Deux-Fois Mort.md",
-                "mode": "source",
-                "source": false
+                "file": "CANVAS/Untitled.canvas",
+                "viewState": {
+                  "x": -110.95055161078774,
+                  "y": 974.2731162951935,
+                  "zoom": -0.3333333333333334
+                }
               },
-              "icon": "lucide-file",
-              "title": "Nécropolis des Deux-Fois Mort"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -165,35 +168,39 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b826bc1aeeea6d16",
+  "active": "d11dddb607be52db",
   "lastOpenFiles": [
-    "Necropolis des Deux-Fois Morts/CREATURES/Pénitent Guerriers.md",
     "Necropolis des Deux-Fois Morts/Nécropolis des Deux-Fois Mort.md",
-    "08 Objets/Coeur Héroïque.md",
-    "Necropolis des Deux-Fois Morts/CREATURES/Apôtre de Néchrubel.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/Champs de Subsistance.md",
-    "Necropolis des Deux-Fois Morts/LORE",
-    "Necropolis des Deux-Fois Morts/PNJS/Acolytes de Nechrubel.md",
+    "Necropolis des Deux-Fois Morts/LIEUX/Bas-Plateau.md",
+    "Necropolis des Deux-Fois Morts/LIEUX/Atelier de l'Arrache Coeur.md",
+    "02 Créatures/Collectioneur.md",
+    "02 Créatures/Charognard des Vases.md",
+    "Necropolis des Deux-Fois Morts/LIEUX/Fosse-Morte.md",
+    "02 Créatures/Squelette de Sang, Belze.md",
+    "02 Créatures/Zukuma, Berserker.md",
+    "02 Créatures/Trappeur-Equarrisseur.md",
+    "02 Créatures/Prêtre de la Pourriture.md",
+    "02 Créatures/Goule des Glaces.md",
+    "02 Créatures/Nodh, zombie.md",
+    "Necropolis des Deux-Fois Morts/CREATURES/_CREATURE.md",
+    "06 Tables/Table d'Objet.md",
+    "CANVAS/Untitled.canvas",
+    "06 Tables/Loot/D4 Armures.md",
+    "06 Tables/Loot/Piller les corps.md",
+    "06 Tables/Loot/Parchemin Sali.md",
+    "06 Tables/Loot/D66 Equipement.md",
+    "06 Tables/Loot/D10 Armes.md",
+    "06 Tables/Loot/D6 Objets Utiles.md",
+    "CANVAS",
+    "06 Tables/Loot/Useful Items.png",
+    "06 Tables/Loot/Parchemin Sacré.md",
+    "06 Tables/Loot/D100 Objets et Babioles.md",
+    "Necropolis des Deux-Fois Morts/PNJS/Léon, chef de la 8ème escouade.md",
+    "Promesse du Trésor de Néphel.md",
     "Necropolis des Deux-Fois Morts/Nécropolis des Deux-Fois morts.excalidraw.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Garde de Néphel.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Les Acolytes de l'Obsidienne.md",
-    "Necropolis des Deux-Fois Morts/PNJS/La Croisade.md",
-    "02 Créatures/Echo Solaire.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Dévoreurs.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Déscendants.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/L'Arrière.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/La Fosse.md",
-    "02 Créatures/Collectioneurs.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/La Porte.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/Le Pemier Chemin.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Croisade.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/Le Pavillon prêt du Lac.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Monarque de Néphel.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Aimé Solaire.md",
-    "_TEMPLATE/_Lore.md",
-    "Necropolis des Deux-Fois Morts/LORE/Dieux Morts.md",
-    "Necropolis des Deux-Fois Morts/PNJS/Loup d'Or.md",
-    "Necropolis des Deux-Fois Morts/LIEUX/L'Allée Victorieuse.md",
+    "02 Créatures/Errant.md",
+    "Necropolis des Deux-Fois Morts/Idées",
+    "Necropolis des Deux-Fois Morts/LORE",
     "Necropolis des Deux-Fois Morts/CREATURES",
     "Necropolis des Deux-Fois Morts/TABLES",
     "Necropolis des Deux-Fois Morts/OBJETS",
@@ -201,7 +208,6 @@
     "Necropolis des Deux-Fois Morts/PNJS",
     "04 NPC/Ort.png",
     "04 NPC/Adär.png",
-    "06 Tables/Loot/Useful Items.png",
     "Necropolis des Deux-Fois Morts",
     "06 Tables/Chasse/Hunt - Berghen Chrypt 1 of 2.jpg",
     "06 Tables/Yes or No.png",
@@ -211,8 +217,6 @@
     "01 Règles/Reaction.png",
     "_IMG/Worldmap.png",
     "Excalidraw",
-    "Tombes et Ténèbres/Trésors",
-    "Tombes et Ténèbres/Rencontres",
     "_IMG/Blank Parchment Map.png"
   ]
 }

@@ -2,7 +2,7 @@
 tags:
   - creature
 ---
-**HP** -, **Morale** -, **armure** -DX
+**HP** 2, **Morale** -, **armure** -DX
 
 **Arme** DX
 **Spécial** -

@@ -1,4 +1,3 @@
-# Piller les corps
 
 | D66   |                                                                                                                                                                                          |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -25,7 +24,7 @@
 | 52    | Une bouteille avec un label représentant un personnage souffrant. **Test Constitution DR12** ou baisse un attribut par **d4**. Ces attributs peuvent être récupéré en devenant meilleur. |
 | 53    | Un scalp avec de long cheveux noirs.                                                                                                                                                     |
 | 54    | Une balle dorée avec une fente très fine, peut etre ouverte.                                                                                                                             |
-| 55    | [[Poing Américain]] ensanglanté                                                                                                                                                            |
+| 55    | [[Poing Américain]] ensanglanté                                                                                                                                                          |
 | 56    | 2 dés pipés                                                                                                                                                                              |
 | 61-66 | Le résultat en argent.                                                                                                                                                                   |
 
